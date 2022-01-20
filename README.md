@@ -1,1 +1,1 @@
-# sensei_django_docker_init
+# Sensei Django Docker init
